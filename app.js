@@ -115,7 +115,7 @@ function filterTwo() {
         console.log('same members Player One Won!');
     }
     else if (b.sort().join(',') == a2.sort().join(',')){
-        console.log('same members Player One Won!');
+        console.log('same members Player One is a Winner!');
     }
     else if (c.sort().join(',') == a2.sort().join(',')){
         console.log('same members Player One Won!');
